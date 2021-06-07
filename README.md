@@ -1,2 +1,2 @@
 # Factorial
-Intento de calculadora Factorial
+Intento de función Factorial
